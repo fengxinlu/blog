@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>征婚启事1212</h1>  
+    <h1>征婚启事121233</h1>  
     <img alt="Vue logo" src="./assets/01.jpeg" style="width: 600px; height: 801px">
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
   </div>
