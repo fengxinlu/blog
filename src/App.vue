@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>我是冯鑫禄</h1>  
+    <h1>冯鑫禄在此 诸神退位</h1>  
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
   </div>
 </template>
